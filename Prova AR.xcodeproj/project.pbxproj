@@ -18,7 +18,7 @@
 /* Begin PBXFileReference section */
 		80B59C9823EAC54300599063 /* Prova AR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Prova AR.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		80B59C9B23EAC54300599063 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		80B59C9D23EAC54300599063 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		80B59C9D23EAC54300599063 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; name = art.scnassets; path = "/Users/antonellacirma/Developer/Prova AR/Prova AR/art.scnassets"; sourceTree = "<absolute>"; };
 		80B59C9F23EAC54300599063 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		80B59CA223EAC54300599063 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		80B59CA423EAC54300599063 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
